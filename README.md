@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lee Jewon</h1>
+## Hi there 👋, I'm Lee Jewon
+#### I graduated bachelor in *Electrical Engineering* in *Korea Univ.*
 
-<h2 align="center">I graduated bachelor in Electrical Engineering in Korea Univ. </h2>
+#### Interested in DL with Image & Language 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,vscode,linux" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-  </a>
-</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/27one)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/제원-이-47167723a/)  
+Skills: 
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,go)](https://skillicons.dev)
+
+Contacts:
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/27one)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/제원-이-47167723a/)
 
