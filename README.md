@@ -30,7 +30,8 @@
 [<img src='https://skillicons.dev/icons?i=go' height='40'>](https://github.com/27one) 
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/27one)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/제원-이-47167723a/)
+[<img src='https://skillicons.dev/icons?i=github' height='30'>](https://github.com/27one) 
+[<img src='https://skillicons.dev/icons?i=linkedin' height='30'>](https://www.linkedin.com/in/제원-이-47167723a/)
+[<img src='https://skillicons.dev/icons?i=instagram' height='30'>](https://www.instagram.com/2_j_1_/)
 
 </div>
