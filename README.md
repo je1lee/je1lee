@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lee Jewon</h1>
 
-I graduated bachelor in Electrical Engineering in Korea Univ. 
+<h2 align="center">I graduated bachelor in Electrical Engineering in Korea Univ. </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
