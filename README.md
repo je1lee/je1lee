@@ -4,10 +4,9 @@
 #### Interested in DL with Image & Language 
 
 
-Skills: 
+
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,go)](https://skillicons.dev)
 
-Contacts:
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/27one)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/제원-이-47167723a/)
 
