@@ -7,7 +7,7 @@
 
 <div align="center">
   
-#### I graduated 🎓bachelor in ⚡️*Electrical Engineering* in 🐯*Korea Univ.*
+#### I completed 🎓bachelor in ⚡️*Electrical Engineering* at 🐯*Korea Univ.*
 
 </div>
 
