@@ -5,13 +5,13 @@
 </div>
 
 
-<div align="center">
+<div align="left">
   
 #### I completed 🎓bachelor in ⚡️*Electrical Engineering* at 🐯*Korea Univ.*
 
 </div>
 
-<div align="center">
+<div align="left">
   
 #### 🔥Interested in DL with Image & Language 
 ####
