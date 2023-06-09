@@ -31,7 +31,7 @@
 
 ###
 [<img src='https://skillicons.dev/icons?i=github' height='30'>](https://github.com/27one) 
-[<img src='https://skillicons.dev/icons?i=linkedin' height='30'>](https://www.linkedin.com/in/제원-이-47167723a/)
+[<img src='https://skillicons.dev/icons?i=linkedin' height='30'>](https://www.linkedin.com/in/jewon-lee-47167723a/)
 [<img src='https://skillicons.dev/icons?i=instagram' height='30'>](https://www.instagram.com/2_j_1_/)
 
 </div>
