@@ -13,7 +13,7 @@
 
 <div align="left">
   
-#### 🔥Interested in DL with Image & Language 
+#### 🔥Interested in DL
 ####
 
 </div>
