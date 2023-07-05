@@ -8,12 +8,12 @@
 <div align="left">
   
 ##### I completed 🎓bachelor in ⚡️*Electrical Engineering* at 🐯*Korea Univ.*
-##### Now, I'm graduate student in 🧠*Artificial Intelligence* at 🐯*Korea Univ.*
+##### Now, I'm 🎓graduate student in 🧠*Artificial Intelligence* at 🐯*Korea Univ.*
 </div>
 
 <div align="left">
   
-#### 🔥Interested in DL
+##### 🔥Interested in DL
 
 
 </div>
